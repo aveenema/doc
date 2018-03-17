@@ -17,3 +17,25 @@ az vm create etc
 1. hi
 2. go ahead
 3. end test
+
+# create vms
+create vms bla bla
+
+types
+* front
+* middle
+* backend
+
+## create frond end vms
+frond end vms
+
+`
+az vm create vm1
+`
+
+## create middleware vms
+middleware vms are based on linux ubuntu 16.04LTSR
+
+`
+az vm create vm2
+`
